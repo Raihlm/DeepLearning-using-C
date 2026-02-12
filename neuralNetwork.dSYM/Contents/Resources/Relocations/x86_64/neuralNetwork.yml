@@ -1,0 +1,5 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/ray/Documents/GitHub/DeepLearning-using-C/neuralNetwork'
+relocations:     []
+...
